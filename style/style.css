@@ -1,0 +1,16 @@
+section{
+    height: 200px;
+}
+
+/*colori*/
+
+.my_bg_green{
+    background-color:#1abc9c;
+    color: white;
+}
+
+/*elementi da cancellare*/
+
+.trat{
+    border: dashed blue 2px;
+}
