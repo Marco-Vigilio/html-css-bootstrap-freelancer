@@ -8,16 +8,27 @@ body{
 }
 
 .avatar{
-    width: 30%;
+    width: 20%;
 }
 
 h1{
-    font-size: 2rem;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 2.5rem;
     font-weight: bold;
 }
 
 p{
-    font-size: .8rem;
+    font-size: 1.5rem;
+}
+
+.items{
+    width: 100%;
+    border-radius: 5%;
+    margin: .5rem 0;
 }
 
 /*colori*/
@@ -31,4 +42,8 @@ p{
 
 .my_trat{
     border: dashed blue 2px;
+}
+
+.sfondo{
+    background-color: red;
 }
