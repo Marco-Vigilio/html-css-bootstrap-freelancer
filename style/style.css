@@ -40,6 +40,22 @@ a{
     color: white;
 }
 
+.my_icon{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px white solid; 
+}
+
+.my_bg_footer{
+    background: #2C3E50;
+    color: white;
+}
+
+.my_color_green{
+    color: #1abc9c;
+}
+
 /*elementi da cancellare*/
 
 .my_trat{
